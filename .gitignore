@@ -1,0 +1,15 @@
+*.py[co]
+*.sw[po]
+.coverage
+pip-log.txt
+docs/_gh-pages
+docs/_build
+.DS_Store
+*-min.css
+*-all.css
+*-min.js
+*-all.js
+.noseids
+tmp/*
+*~
+*.mo
