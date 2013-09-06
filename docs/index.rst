@@ -12,6 +12,9 @@ Firefox Marketplace.
 Bagpuss was also a children's TV show in the UK that a few of the developers
 used to watch.
 
+All the code is on `github <https://github.com/mozilla/bagpuss/>`_.
+
+
 Contents
 --------
 
